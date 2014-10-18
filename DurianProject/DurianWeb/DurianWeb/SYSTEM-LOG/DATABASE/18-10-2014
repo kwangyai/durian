@@ -1,0 +1,28 @@
+==================[@START DATABASE LOG]==================
+2014-10-18 04:58:55,393 [INFO ] <DatabaseLog.7408 >"[SmartLib.Database.Config.DbConfigurationSectionHandler] dbEasy Configuration, ( app.config for WinApp, web.config for web App), Loaded."  
+==================[@STOP  DATABASE LOG]==================
+
+==================[@START DATABASE LOG]==================
+2014-10-18 05:07:13,546 [INFO ] <DatabaseLog.8600 >"[SmartLib.Database.Config.DbConfigurationSectionHandler] dbEasy Configuration, ( app.config for WinApp, web.config for web App), Loaded."  
+==================[@STOP  DATABASE LOG]==================
+
+==================[@START DATABASE LOG]==================
+2014-10-18 12:59:56,763 [INFO ] <DatabaseLog.7404 >"[SmartLib.Database.Config.DbConfigurationSectionHandler] dbEasy Configuration, ( app.config for WinApp, web.config for web App), Loaded."  
+==================[@STOP  DATABASE LOG]==================
+
+==================[@START DATABASE LOG]==================
+2014-10-18 13:03:26,387 [INFO ] <DatabaseLog.3308 >"[SmartLib.Database.Config.DbConfigurationSectionHandler] dbEasy Configuration, ( app.config for WinApp, web.config for web App), Loaded."  
+==================[@STOP  DATABASE LOG]==================
+
+==================[@START DATABASE LOG]==================
+2014-10-18 13:04:30,128 [INFO ] <DatabaseLog.3748 >"[SmartLib.Database.Config.DbConfigurationSectionHandler] dbEasy Configuration, ( app.config for WinApp, web.config for web App), Loaded."  
+==================[@STOP  DATABASE LOG]==================
+
+==================[@START DATABASE LOG]==================
+2014-10-18 13:06:13,395 [INFO ] <DatabaseLog.3748 >"[SmartLib.Database.Config.DbConfigurationSectionHandler] dbEasy Configuration, ( app.config for WinApp, web.config for web App), Loaded."  
+==================[@STOP  DATABASE LOG]==================
+
+==================[@START DATABASE LOG]==================
+2014-10-18 13:18:18,919 [INFO ] <DatabaseLog.9028 >"[SmartLib.Database.Config.DbConfigurationSectionHandler] dbEasy Configuration, ( app.config for WinApp, web.config for web App), Loaded."  
+==================[@STOP  DATABASE LOG]==================
+

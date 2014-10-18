@@ -1,0 +1,48 @@
+﻿.ui-combobox {
+		position: relative;
+		display: inline-block;
+		margin-right:15px;
+	}
+	.ui-combobox-toggle {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		margin-left: -1px;
+		padding: 0;
+		/* adjust styles for IE 6/7 */
+		*height: 1.7em;
+		*top: 0.1em;
+	}
+	.ui-combobox-input {
+		margin: 0;
+		padding: 0.3em;
+	}
+	/* this original for Autocomplete Combobox */
+	.ui-button { margin-left: -25px; }
+	.ui-button-icon-only .ui-button-text { padding: 0.3em; } 
+	.ui-autocomplete-input { margin: 0; padding: 0.2em 0.2em 0.2em 0.2em; width:350px}
+    /* *** Add this for visible Scrolling ;) */
+    .ui-autocomplete {
+		max-height: 350px;
+		height:350px;
+		overflow-y: auto;
+		/* prevent horizontal scrollbar */
+		overflow-x: hidden;
+		/* add padding to account for vertical scrollbar */
+		padding-right: 20px;
+		z-index:4000 !important;
+		
+	}
+	/* IE 6 doesn't support max-height
+	 * we use height instead, but this forces the menu to always be this tall
+	 */
+	* html .ui-autocomplete {
+		height: 250px; /* CSS-compliant browser */		
+		width:auto;
+		z-index:4000 !important;
+	}
+	.combobox
+	{
+	    /*display:none;*/
+	    }
+	    

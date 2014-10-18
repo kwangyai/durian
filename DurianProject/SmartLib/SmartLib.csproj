@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{064509A7-E356-4E66-A01C-F7AD16E4F328}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SmartLib</RootNamespace>
+    <AssemblyName>SmartLib</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\log4net-1.2.11\bin\net\4.0\release\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cryptography\Cryptographer.cs" />
+    <Compile Include="Cryptography\CryptographerServiceHash.cs" />
+    <Compile Include="Cryptography\CryptographerServiceSym.cs" />
+    <Compile Include="Cryptography\CryptographySettings.cs" />
+    <Compile Include="Cryptography\CryptographyUtils.cs" />
+    <Compile Include="Cryptography\ICryptographer.cs" />
+    <Compile Include="Database\API\AutoTransaction.cs" />
+    <Compile Include="Database\API\DbException.cs" />
+    <Compile Include="Database\API\IDataService.cs" />
+    <Compile Include="Database\API\IDb.cs" />
+    <Compile Include="Database\Config\CustomConfigLoader.cs" />
+    <Compile Include="Database\Config\CustomDbConfigExample.cs" />
+    <Compile Include="Database\Config\DbConfigInfo.cs" />
+    <Compile Include="Database\Config\DbConfigManager.cs" />
+    <Compile Include="Database\Config\DbConfigurationSectionHandler.cs" />
+    <Compile Include="Database\Config\DbEasyConfigManager.cs" />
+    <Compile Include="Database\DataHelper.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Database\DataService.cs" />
+    <Compile Include="Database\Db.cs" />
+    <Compile Include="Database\DbHelper.cs" />
+    <Compile Include="Database\DbUtil.cs" />
+    <Compile Include="Database\QueryCommand.cs" />
+    <Compile Include="Database\SqlCriteria.cs" />
+    <Compile Include="Database\SqlEasy.cs" />
+    <Compile Include="Database\SqlStatementType.cs" />
+    <Compile Include="Database\Web\OpenConnectionInView.cs" />
+    <Compile Include="Database\Web\WebDataService.cs" />
+    <Compile Include="Database\Web\WebDb.cs" />
+    <Compile Include="Database\Win2\WinDataService2.cs" />
+    <Compile Include="Database\Win2\WinDb2.cs" />
+    <Compile Include="Database\Win\WinDataService.cs" />
+    <Compile Include="Database\Win\WinDb.cs" />
+    <Compile Include="DmShared.Collections.DelimitString.cs" />
+    <Compile Include="DmShared.General.cs" />
+    <Compile Include="Extension\StringExtension.cs" />
+    <Compile Include="General.cs" />
+    <Compile Include="Logger\EnumLoggerName.cs" />
+    <Compile Include="Logger\ILogWriter.cs" />
+    <Compile Include="Logger\LogWriter.cs" />
+    <Compile Include="Logger\LogWriterFactory.cs" />
+    <Compile Include="Printer\PrintSlipTextBuilder.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\PageHelper.cs" />
+    <Compile Include="Util\TimeStamp.cs" />
+    <Compile Include="Web\Permission\IMembership.cs" />
+    <Compile Include="Web\Permission\IWebPermissionTrigger.cs" />
+    <Compile Include="Web\Permission\PermissionResultCode.cs" />
+    <Compile Include="Web\Permission\UserAccount.cs" />
+    <Compile Include="Web\Permission\WebMembership.cs" />
+    <Compile Include="Web\Permission\WebPermission.cs" />
+    <Compile Include="Web\SiteSetting.cs" />
+    <Compile Include="Xml\DmXmlDoc.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DataCollection\DataCollection.vb" />
+    <Content Include="Logger\log.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Logger\log4net-app.config" />
+    <EmbeddedResource Include="Logger\log4net-web.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

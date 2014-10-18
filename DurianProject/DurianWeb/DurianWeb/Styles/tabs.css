@@ -1,0 +1,44 @@
+.yui .ajax__tab_header 
+{
+    font-family:arial,helvetica,clean,sans-serif;
+    font-size:small;
+    border-bottom:solid 5px #2647a0;
+}
+.yui .ajax__tab_header .ajax__tab_outer 
+{
+    background:url(images/sprite.png) #d8d8d8 repeat-x;
+    margin:0px 0.16em 0px 0px;
+    padding:1px 0px 1px 0px;
+    vertical-align:bottom;
+    border:solid 1px #a3a3a3;
+    border-bottom-width:0px;
+    cursor:pointer;
+}
+.yui .ajax__tab_header .ajax__tab_tab
+{    
+    color:#000;
+    padding:0.35em 0.75em;    
+    margin-right:0.01em;
+}
+.yui .ajax__tab_hover .ajax__tab_outer 
+{
+    background: url(images/sprite.png) #bfdaff repeat-x left -1300px;
+}
+.yui .ajax__tab_active .ajax__tab_tab 
+{
+    color:#fff;
+}
+.yui .ajax__tab_active .ajax__tab_outer
+{
+    background:url(images/sprite.png) #2647a0 repeat-x left -1400px;
+}
+.yui .ajax__tab_body 
+{
+    font-family:verdana,tahoma,helvetica;
+    font-size:10pt;
+    padding:0.25em 0.5em;
+    /*background-color:#edf5ff;    
+    border:solid 1px #808080;*/
+    border-width:0px;
+    border-top-width:0px;
+}

@@ -1,0 +1,4 @@
+==================[@START DATABASE LOG]==================
+2014-10-17 22:00:50,020 [INFO ] <DatabaseLog.9408 >"[SmartLib.Database.Config.DbConfigurationSectionHandler] dbEasy Configuration, ( app.config for WinApp, web.config for web App), Loaded."  
+==================[@STOP  DATABASE LOG]==================
+

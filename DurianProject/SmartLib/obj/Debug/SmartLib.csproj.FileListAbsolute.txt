@@ -1,0 +1,20 @@
+D:\Project\SmartLib\SmartLib\SmartLib\bin\Debug\Logger\log.mdb
+D:\Project\SmartLib\SmartLib\SmartLib\bin\Debug\SmartLib.dll
+D:\Project\SmartLib\SmartLib\SmartLib\bin\Debug\SmartLib.pdb
+D:\Project\SmartLib\SmartLib\SmartLib\bin\Debug\log4net.dll
+D:\Project\SmartLib\SmartLib\SmartLib\bin\Debug\log4net.xml
+D:\Project\SmartLib\SmartLib\SmartLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\SmartLib\SmartLib\SmartLib\obj\Debug\SmartLib.dll
+D:\Project\SmartLib\SmartLib\SmartLib\obj\Debug\SmartLib.pdb
+D:\Project\Lexus Project\SmartLib\bin\Debug\Logger\log.mdb
+D:\Project\Lexus Project\SmartLib\bin\Debug\SmartLib.dll
+D:\Project\Lexus Project\SmartLib\bin\Debug\SmartLib.pdb
+D:\Project\Lexus Project\SmartLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Lexus Project\SmartLib\obj\Debug\SmartLib.dll
+D:\Project\Lexus Project\SmartLib\obj\Debug\SmartLib.pdb
+D:\Project\DurianProject\SmartLib\bin\Debug\Logger\log.mdb
+D:\Project\DurianProject\SmartLib\bin\Debug\SmartLib.dll
+D:\Project\DurianProject\SmartLib\bin\Debug\SmartLib.pdb
+D:\Project\DurianProject\SmartLib\obj\Debug\SmartLib.dll
+D:\Project\DurianProject\SmartLib\obj\Debug\SmartLib.pdb
+D:\Project\DurianProject\SmartLib\obj\Debug\SmartLib.csprojResolveAssemblyReference.cache

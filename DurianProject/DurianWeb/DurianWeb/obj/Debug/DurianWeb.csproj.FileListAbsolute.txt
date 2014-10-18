@@ -1,0 +1,13 @@
+D:\Project\DurianProject\DurianWeb\DurianWeb\obj\Debug\DurianWeb.csprojResolveAssemblyReference.cache
+D:\Project\DurianProject\DurianWeb\DurianWeb\bin\DurianWeb.dll
+D:\Project\DurianProject\DurianWeb\DurianWeb\bin\DurianWeb.pdb
+D:\Project\DurianProject\DurianWeb\DurianWeb\bin\DurianWeb.DataAccess.dll
+D:\Project\DurianProject\DurianWeb\DurianWeb\bin\DurianWeb.Utility.dll
+D:\Project\DurianProject\DurianWeb\DurianWeb\bin\SmartLib.dll
+D:\Project\DurianProject\DurianWeb\DurianWeb\bin\DurianWeb.DataAccess.pdb
+D:\Project\DurianProject\DurianWeb\DurianWeb\bin\DurianWeb.Utility.pdb
+D:\Project\DurianProject\DurianWeb\DurianWeb\bin\SmartLib.pdb
+D:\Project\DurianProject\DurianWeb\DurianWeb\obj\Debug\DurianWeb.dll
+D:\Project\DurianProject\DurianWeb\DurianWeb\obj\Debug\DurianWeb.pdb
+D:\Project\DurianProject\DurianWeb\DurianWeb\bin\DurianWeb.Entity.dll
+D:\Project\DurianProject\DurianWeb\DurianWeb\bin\DurianWeb.Entity.pdb

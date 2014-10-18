@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurianWeb", "DurianWeb\DurianWeb.csproj", "{CF292A69-DF71-44CE-8EED-F8FBAB40648D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurianWeb.Utility", "..\DurianWeb.Utility\DurianWeb.Utility.csproj", "{8AA778E3-A27D-43F4-8807-22BE868C3F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurianWeb.DataAccess", "..\DurianWeb.DataAccess\DurianWeb.DataAccess.csproj", "{75349AF5-08D1-40F4-B095-6CE5C8F7148E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLib", "..\SmartLib\SmartLib.csproj", "{064509A7-E356-4E66-A01C-F7AD16E4F328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurianWeb.Entity", "..\DurianWeb.Entity\DurianWeb.Entity.csproj", "{C202A9E3-FAA6-458A-8A3B-E1F15D26CF3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF292A69-DF71-44CE-8EED-F8FBAB40648D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF292A69-DF71-44CE-8EED-F8FBAB40648D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF292A69-DF71-44CE-8EED-F8FBAB40648D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF292A69-DF71-44CE-8EED-F8FBAB40648D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA778E3-A27D-43F4-8807-22BE868C3F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA778E3-A27D-43F4-8807-22BE868C3F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA778E3-A27D-43F4-8807-22BE868C3F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA778E3-A27D-43F4-8807-22BE868C3F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75349AF5-08D1-40F4-B095-6CE5C8F7148E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75349AF5-08D1-40F4-B095-6CE5C8F7148E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75349AF5-08D1-40F4-B095-6CE5C8F7148E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75349AF5-08D1-40F4-B095-6CE5C8F7148E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064509A7-E356-4E66-A01C-F7AD16E4F328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064509A7-E356-4E66-A01C-F7AD16E4F328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064509A7-E356-4E66-A01C-F7AD16E4F328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064509A7-E356-4E66-A01C-F7AD16E4F328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C202A9E3-FAA6-458A-8A3B-E1F15D26CF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C202A9E3-FAA6-458A-8A3B-E1F15D26CF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C202A9E3-FAA6-458A-8A3B-E1F15D26CF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C202A9E3-FAA6-458A-8A3B-E1F15D26CF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
