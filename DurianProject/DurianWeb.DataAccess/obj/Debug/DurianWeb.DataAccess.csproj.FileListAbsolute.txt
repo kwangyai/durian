@@ -6,3 +6,11 @@ D:\Project\DurianProject\DurianWeb.DataAccess\bin\Debug\SmartLib.dll
 D:\Project\DurianProject\DurianWeb.DataAccess\bin\Debug\SmartLib.pdb
 D:\Project\DurianProject\DurianWeb.DataAccess\obj\Debug\DurianWeb.DataAccess.dll
 D:\Project\DurianProject\DurianWeb.DataAccess\obj\Debug\DurianWeb.DataAccess.pdb
+D:\Project\durian\DurianProject\DurianWeb.DataAccess\bin\Debug\Logger\log.mdb
+D:\Project\durian\DurianProject\DurianWeb.DataAccess\bin\Debug\DurianWeb.DataAccess.dll
+D:\Project\durian\DurianProject\DurianWeb.DataAccess\bin\Debug\DurianWeb.DataAccess.pdb
+D:\Project\durian\DurianProject\DurianWeb.DataAccess\bin\Debug\SmartLib.dll
+D:\Project\durian\DurianProject\DurianWeb.DataAccess\bin\Debug\SmartLib.pdb
+D:\Project\durian\DurianProject\DurianWeb.DataAccess\obj\Debug\DurianWeb.DataAccess.csprojResolveAssemblyReference.cache
+D:\Project\durian\DurianProject\DurianWeb.DataAccess\obj\Debug\DurianWeb.DataAccess.dll
+D:\Project\durian\DurianProject\DurianWeb.DataAccess\obj\Debug\DurianWeb.DataAccess.pdb

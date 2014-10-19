@@ -2,3 +2,7 @@ D:\Project\DurianProject\DurianWeb.Entity\bin\Debug\DurianWeb.Entity.dll
 D:\Project\DurianProject\DurianWeb.Entity\bin\Debug\DurianWeb.Entity.pdb
 D:\Project\DurianProject\DurianWeb.Entity\obj\Debug\DurianWeb.Entity.dll
 D:\Project\DurianProject\DurianWeb.Entity\obj\Debug\DurianWeb.Entity.pdb
+D:\Project\durian\DurianProject\DurianWeb.Entity\bin\Debug\DurianWeb.Entity.dll
+D:\Project\durian\DurianProject\DurianWeb.Entity\bin\Debug\DurianWeb.Entity.pdb
+D:\Project\durian\DurianProject\DurianWeb.Entity\obj\Debug\DurianWeb.Entity.dll
+D:\Project\durian\DurianProject\DurianWeb.Entity\obj\Debug\DurianWeb.Entity.pdb

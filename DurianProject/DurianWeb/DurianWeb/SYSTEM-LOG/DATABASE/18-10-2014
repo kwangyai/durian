@@ -26,3 +26,7 @@
 2014-10-18 13:18:18,919 [INFO ] <DatabaseLog.9028 >"[SmartLib.Database.Config.DbConfigurationSectionHandler] dbEasy Configuration, ( app.config for WinApp, web.config for web App), Loaded."  
 ==================[@STOP  DATABASE LOG]==================
 
+==================[@START DATABASE LOG]==================
+2014-10-18 14:27:26,697 [INFO ] <DatabaseLog.9252 >"[SmartLib.Database.Config.DbConfigurationSectionHandler] dbEasy Configuration, ( app.config for WinApp, web.config for web App), Loaded."  
+==================[@STOP  DATABASE LOG]==================
+

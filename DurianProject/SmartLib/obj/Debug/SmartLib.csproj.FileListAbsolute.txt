@@ -18,3 +18,9 @@ D:\Project\DurianProject\SmartLib\bin\Debug\SmartLib.pdb
 D:\Project\DurianProject\SmartLib\obj\Debug\SmartLib.dll
 D:\Project\DurianProject\SmartLib\obj\Debug\SmartLib.pdb
 D:\Project\DurianProject\SmartLib\obj\Debug\SmartLib.csprojResolveAssemblyReference.cache
+D:\Project\durian\DurianProject\SmartLib\bin\Debug\Logger\log.mdb
+D:\Project\durian\DurianProject\SmartLib\bin\Debug\SmartLib.dll
+D:\Project\durian\DurianProject\SmartLib\bin\Debug\SmartLib.pdb
+D:\Project\durian\DurianProject\SmartLib\obj\Debug\SmartLib.csprojResolveAssemblyReference.cache
+D:\Project\durian\DurianProject\SmartLib\obj\Debug\SmartLib.dll
+D:\Project\durian\DurianProject\SmartLib\obj\Debug\SmartLib.pdb
